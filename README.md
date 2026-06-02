@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Krish 👋
 
-<!--
-**krishachra/krishachra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Aspiring Backend Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science student at Newton School of Technology, passionate about backend development, data structures & algorithms, and finance. I enjoy building projects and continuously improving my problem-solving skills.
+🎓 B.Tech CSE @ Newton School of Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=krishachra&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+## 🚀 Current Focus
+
+- Learning Backend Development with Node.js
+- Solving Data Structures & Algorithms problems
+- Building Full-Stack Projects
+- Exploring Software Engineering and Finance
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishachra&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishachra&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krishachra)
+
+## 🧠 LeetCode
+
+![LeetCode Stats](https://leetcode.card.workers.dev/?username=binary_baba)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=krishachra&theme=flat&no-frame=true&margin-w=15)
+
+## 📂 Featured Projects
+
+- Basic Informational Site (Node.js)
+
+
+## 🎯 Goals
+
+- Become a strong Backend Engineer
+- Build production-ready applications
+- Learn System Design
+- Combine technology and finance
+
+## 📫 Connect
+
+- LinkedIn: [krishachra](https://www.linkedin.com/in/krishachra/)
