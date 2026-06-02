@@ -27,22 +27,21 @@ I'm a Computer Science student at Newton School of Technology, passionate about 
 
 ## 📈 GitHub Stats
 
-![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishachra&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishachra&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krishachra)
+![GitHub Streak](https://streak-stats.demolab.com?user=krishachra&theme=github-dark-blue)
 
 ## 🧠 LeetCode
 
-![LeetCode Stats](https://leetcode.card.workers.dev/?username=binary_baba)
+![LeetCode Stats](https://leetcard.jacoblin.cool/binary_baba?theme=dark&font=Karma)
 
-## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=krishachra&theme=flat&no-frame=true&margin-w=15)
 
 ## 📂 Featured Projects
 
-- Basic Informational Site (Node.js)
+- 🌐 [Basic Informational Site](https://github.com/krishachra/basic-informational-site)
+- 📈 [Stock Market Tracker](https://github.com/krishachra/stock-market-tracker)
+- ☁️ [Weather App](https://github.com/krishachra/weather-app)
+- 🎮 [Memory Card Game](https://github.com/krishachra/memory-card-game)
 
 
 ## 🎯 Goals
