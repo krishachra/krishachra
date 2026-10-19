@@ -58,20 +58,23 @@ I enjoy building projects, understanding how software works under the hood, and 
 
 </div>
 
-## 🌱 Open-Source Contributions
+## 🌱 Open Source Contributions
 
-### [Hiero JavaScript SDK](https://github.com/hiero-ledger/hiero-sdk-js)
-
-**[PR #4541 · Add IPv4Address unit tests](https://github.com/hiero-ledger/hiero-sdk-js/pull/4541)** <img src="https://img.shields.io/badge/Status-Merged-2ea44f?style=flat-square" alt="Merged" />
-
-Contributed to the official Hiero JavaScript SDK by improving test coverage and maintaining API compatibility.
-
-- Added 33 unit tests for `IPv4Address` and `IPv4AddressPart`.
-- Tested getters, setters, string parsing, protobuf conversions, and null cases.
-- Added the correctly spelled `network` getter while retaining `newtork` as a deprecated compatibility alias.
-- Updated the changelog and verified the tests in Node.js and Chromium.
-
-**Related issue:** [#4008](https://github.com/hiero-ledger/hiero-sdk-js/issues/4008)
+<p align="center">
+  <a href="https://github.com/hiero-ledger">
+    <img
+      src="https://avatars.githubusercontent.com/u/179146999?v=4"
+      width="100"
+      alt="Hiero logo"
+    />
+  </a>
+  <br />
+  <strong>
+    <a href="https://github.com/hiero-ledger">Hiero</a>
+  </strong>
+  <br />
+  <sub>Open Source Contributor</sub>
+</p>
 
 ## 📂 Featured Projects
 
